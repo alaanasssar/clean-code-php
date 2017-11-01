@@ -1,17 +1,26 @@
-# Clean Code PHP
+# Clean Code PHP - كتابة كود بي اتش بي بطريقة صحيحة
 
-## Table of Contents
+## Table of Contents - المحتوي
 
-  1. [Introduction](#introduction)
-  2. [Variables](#variables)
+  1. [Introduction](#introduction) المقدمه
+  2. [Variables](#variables) المتغيرات
      * [Use meaningful and pronounceable variable names](#use-meaningful-and-pronounceable-variable-names)
+     استخدم متغيرات ذات معني وتوضحة
      * [Use the same vocabulary for the same type of variable](#use-the-same-vocabulary-for-the-same-type-of-variable)
+     استخدم نفس مفرادات اللغه لإنشاء المتغيرات
      * [Use searchable names (part 1)](#use-searchable-names-part-1)
+     استخدام اسماء قابله للبحث عنها ( الجزء 1)
      * [Use searchable names (part 2)](#use-searchable-names-part-2)
+      استخدام اسماء قابله للبحث عنها ( الجزء 2)
      * [Use explanatory variables](#use-explanatory-variables)
+     استخدم متغيرات قابله للتفسير
      * [Avoid nesting too deeply and return early (part 1)](#avoid-nesting-too-deeply-and-return-early-part-1)
+     تجنب استخدام طريقه Nesting بشكل متكرر وحاول ارجاع النتيجة بشكل مبكر ( الجزء 1 )
      * [Avoid nesting too deeply and return early (part 2)](#avoid-nesting-too-deeply-and-return-early-part-2)
+     تجنب استخدام طريقه Nesting بشكل متكرر وحاول ارجاع النتيجة بشكل مبكر ( الجزء 2 )
+
      * [Avoid Mental Mapping](#avoid-mental-mapping)
+     
      * [Don't add unneeded context](#dont-add-unneeded-context)
      * [Use default arguments instead of short circuiting or conditionals](#use-default-arguments-instead-of-short-circuiting-or-conditionals)
   3. [Functions](#functions)
